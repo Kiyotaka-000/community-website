@@ -20,7 +20,7 @@ const Path=()=>{
     
     
     <Routes>
-        <Route path="/" element={<Home/>}/>
+        <Route path="community-website/" element={<Home/>}/>
         <Route path="/eventregistration" element={<EventRegistrationPage/>}/>
     </Routes>)
 }
